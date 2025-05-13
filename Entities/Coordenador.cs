@@ -1,6 +1,9 @@
 ﻿namespace MBGestaoEscolarAN.Entities
 {
-    public class Coordenador
+    public class Coordenador:Pessoa
     {
+        public int CoordenadorId {  get; set; }
+
+
     }
 }
