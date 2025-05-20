@@ -1,0 +1,2 @@
+C:\Users\luiz.vale\source\repos\MBGestaoEscolarAN\MBGestaoEscolarAN\wwwroot\favicon.ico
+wwwroot\favicon.ico

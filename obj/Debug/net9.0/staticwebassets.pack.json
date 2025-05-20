@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\luiz.vale\\source\\repos\\MBGestaoEscolarAN\\MBGestaoEscolarAN\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MBGestaoEscolarAN.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MBGestaoEscolarAN.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MBGestaoEscolarAN.props",
+      "PackagePath": "build\\MBGestaoEscolarAN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MBGestaoEscolarAN.props",
+      "PackagePath": "buildMultiTargeting\\MBGestaoEscolarAN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MBGestaoEscolarAN.props",
+      "PackagePath": "buildTransitive\\MBGestaoEscolarAN.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

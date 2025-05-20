@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MBGestaoEscolarAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4ba7512d9a2e4cbeb24632096dfef8c604d3e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e024afdbe02c0094b6ae75ee18c14d78fb5640")]
 [assembly: System.Reflection.AssemblyProductAttribute("MBGestaoEscolarAN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MBGestaoEscolarAN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
